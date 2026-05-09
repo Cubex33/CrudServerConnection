@@ -1,6 +1,8 @@
 bin/
 obj/
 
+Models/AppDbContext.cs
+
 *.user
 *.suo
 *.userosscache
