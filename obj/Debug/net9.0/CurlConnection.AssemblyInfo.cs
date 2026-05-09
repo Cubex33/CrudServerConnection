@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurlConnection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3adf510b829b41cbe3bd4c4195baba21197369a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa728da86ae5feaac633c2952b86d279e9e1dfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurlConnection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurlConnection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
